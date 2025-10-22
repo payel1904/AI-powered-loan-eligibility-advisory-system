@@ -74,5 +74,5 @@ These models are trained on historical loan data to achieve high accuracy and fa
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/AI-powered-loan-eligibility-advisory-system.git
+   git clone https://github.com/<https://github.com/payel1904/AI-powered-loan-eligibility-advisory-system.git>/AI-powered-loan-eligibility-advisory-system.git
    cd AI-powered-loan-eligibility-advisory-system
